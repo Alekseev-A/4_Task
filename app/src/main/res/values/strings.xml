@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">4_Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="notes_fragment_label">Notes Fragment</string>
+    <string name="add_note_fragment_label">Add Note Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+<!--    <string name="note_deleted">%1$s deleted</string>-->
+    <string name="note_deleted">Deleted</string>
+    <string name="undo_delete">UNDO</string>
+</resources>
